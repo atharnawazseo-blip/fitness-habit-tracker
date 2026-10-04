@@ -1,0 +1,6 @@
+{
+  "name": "SehatSync - Pakistani Health & Home Fitness",
+  "description": "All-in-one health companion with home workouts, Pakistani meal and water tracking, sleep hygiene, and visual streak system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
